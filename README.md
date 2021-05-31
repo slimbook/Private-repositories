@@ -1,8 +1,10 @@
-We are a small hardware company that develops some applications, we have public repositories where you can help us with translations. But we also have private repositories where people who request it can collaborate.
-This helps us to better control who collaborates and we avoid problems of the past.
-Our applications are installed on our laptops, but also on other brand laptops.
+We are a small Spanish hardware manufacturer that invests some its time in to application development as well. You can contribute with translations for our apps via our public repositories.
 
-If you want to collaborate, open an issue in this repository with your github account, and indicate in which app you want to collaborate, what you have in mind to do.
+On the other hand, we have set up private repositories too for those that wish to contribute with their coding skills. Private repositories allows us to better control who contributes what code to avoid some issues that we had to deal with in the past. You will find our apps included with our  computers, but the can work on most computers from any brand.
+
+If you want to contribute, open an issue in this repo with your GitHub account and tell us which app you want to improve and what additions do you have in mind.
+
+Wellcome to the Slimbook Dev Team!
 
 # Private repositories LIST
 
