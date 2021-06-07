@@ -8,6 +8,11 @@ Welcome to Slimbook Dev Team!
 
 # Private repositories LIST
 
+Slimbook AMD Controller
+
+https://github.com/slimbook/slimbookamdcontroller
+
+
 Slimbook RGB Keyboard
 
 https://github.com/slimbook/slimbookrgbkeyboard
