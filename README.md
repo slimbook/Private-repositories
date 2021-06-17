@@ -24,7 +24,7 @@ https://github.com/slimbook/slimbookgestures
 
 
 
-~~Slimbook RGB Keyboard
+~~Slimbook RGB Keyboard~~
 
 NOW PUBLIC!!
 
