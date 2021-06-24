@@ -13,15 +13,16 @@ Slimbook AMD Controller
 https://github.com/slimbook/slimbookamdcontroller
 
 
-Slimbook Face:
-
-https://github.com/slimbook/slimbookface
-
-
 Slimbook (Tocuhpad) Gestures:
 
 https://github.com/slimbook/slimbookgestures
 
+
+NOW PUBLIC!!
+
+~~Slimbook Face:~~
+
+https://github.com/slimbook/slimbookface
 
 
 ~~Slimbook RGB Keyboard~~
