@@ -18,15 +18,12 @@ Slimbook (Tocuhpad) Gestures:
 https://github.com/slimbook/slimbookgestures
 
 
-NOW PUBLIC!!
 
-~~Slimbook Face:~~
+~~Slimbook Face:~~ 
 
-https://github.com/slimbook/slimbookface
+NOW PUBLIC!! https://github.com/slimbook/slimbookface
 
 
 ~~Slimbook RGB Keyboard~~
 
-NOW PUBLIC!!
-
-~~ https://github.com/slimbook/slimbookrgbkeyboard
+NOW PUBLIC!! https://github.com/slimbook/slimbookrgbkeyboard
